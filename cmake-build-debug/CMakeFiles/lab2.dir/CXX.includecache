@@ -6,37 +6,53 @@
 
 #IncludeRegexTransform: 
 
-/Users/jxr027/CLionProjects/Lab2/Card.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.cpp
+Card.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.h
+
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.h
 string
 -
 
-/Users/jxr027/CLionProjects/Lab2/CardDeck.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/CardDeck.cpp
+CardDeck.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/CardDeck.h
+
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/CardDeck.h
 iostream
 -
 Card.h
-/Users/jxr027/CLionProjects/Lab2/Card.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.h
 
-/Users/jxr027/CLionProjects/Lab2/Circle.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.cpp
+Circle.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.h
+
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.h
 iostream
 -
 
-/Users/jxr027/CLionProjects/Lab2/Person.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Person.cpp
+Person.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Person.h
+
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Person.h
 iostream
 -
 string
 -
 
-/Users/jxr027/CLionProjects/Lab2/main.cpp
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/main.cpp
 iostream
 -
 string
 -
 Person.h
-/Users/jxr027/CLionProjects/Lab2/Person.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Person.h
 Card.h
-/Users/jxr027/CLionProjects/Lab2/Card.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.h
 Circle.h
-/Users/jxr027/CLionProjects/Lab2/Circle.h
-CardDeck.h
-/Users/jxr027/CLionProjects/Lab2/CardDeck.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.h
+CardDeck.cpp
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/CardDeck.cpp
 

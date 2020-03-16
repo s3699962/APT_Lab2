@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jxr027/CLionProjects/Lab2/Card.cpp" "/Users/jxr027/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/lab2.dir/Card.cpp.o"
-  "/Users/jxr027/CLionProjects/Lab2/CardDeck.cpp" "/Users/jxr027/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/lab2.dir/CardDeck.cpp.o"
-  "/Users/jxr027/CLionProjects/Lab2/Circle.cpp" "/Users/jxr027/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/lab2.dir/Circle.cpp.o"
-  "/Users/jxr027/CLionProjects/Lab2/Person.cpp" "/Users/jxr027/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/lab2.dir/Person.cpp.o"
-  "/Users/jxr027/CLionProjects/Lab2/main.cpp" "/Users/jxr027/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/lab2.dir/main.cpp.o"
+  "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.cpp" "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/cmake-build-debug/CMakeFiles/lab2.dir/Card.cpp.o"
+  "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/CardDeck.cpp" "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/cmake-build-debug/CMakeFiles/lab2.dir/CardDeck.cpp.o"
+  "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.cpp" "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/cmake-build-debug/CMakeFiles/lab2.dir/Circle.cpp.o"
+  "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Person.cpp" "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/cmake-build-debug/CMakeFiles/lab2.dir/Person.cpp.o"
+  "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/main.cpp" "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/cmake-build-debug/CMakeFiles/lab2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
