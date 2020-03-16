@@ -6,7 +6,7 @@
 #define LAB2_CARDDECK_H
 
 #include <iostream>
-#include "Card.h"
+#include "Card.cpp"
 
 class CardDeck {
     Card deck[48] = { };

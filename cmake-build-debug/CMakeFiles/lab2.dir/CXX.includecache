@@ -21,8 +21,8 @@ CardDeck.h
 /Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/CardDeck.h
 iostream
 -
-Card.h
-/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.h
+Card.cpp
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.cpp
 
 /Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.cpp
 Circle.h
@@ -47,12 +47,10 @@ iostream
 -
 string
 -
-Person.h
-/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Person.h
-Card.h
-/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Card.h
-Circle.h
-/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.h
+Person.cpp
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Person.cpp
+Circle.cpp
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/Circle.cpp
 CardDeck.cpp
 /Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab2/CardDeck.cpp
 

@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
-#include "Person.h"
-#include "Card.h"
-#include "Circle.h"
+#include "Person.cpp"
+#include "Circle.cpp"
 #include "CardDeck.cpp"
 
 #define Pi 3.14159
@@ -44,9 +43,9 @@ void question1() {
 
 void question2() {
     cout << "QUESTION 2" << endl;
-    Person person;
-    person.enterPersonDetails();
-    person.printPersonDetails();
+    Person* person = new Person;
+    person->enterPersonDetails();
+    person->printPersonDetails();
     cout << "" << endl << endl;
 }
 
@@ -167,6 +166,6 @@ void question6() {
         total = total + j;
     }
 
-    cout << "Enter total sum of the array is: " << total << endl << endl;
+    cout << "The total sum of the array is: " << total << endl << endl;
 }
 

@@ -3,3 +3,10 @@
 //
 
 #include "Card.h"
+
+class Card {
+public:
+    int uniqueNumber;
+    std::string colour;
+    int colourNumber;
+};
